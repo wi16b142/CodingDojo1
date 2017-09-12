@@ -12,6 +12,7 @@ namespace CodingDojo1
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Branch");
+            Console.WriteLine("cool!");
         }
     }
 }
